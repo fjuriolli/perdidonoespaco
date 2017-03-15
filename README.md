@@ -2,7 +2,7 @@
 
 # O que é?
 
-Perdido no Espaço é um jogo criado inteiramente em Java, utilizando o Netbeans, para a conclusão da cadeira de "Projeto de Programação Orientado a Objetos da Faculdade Estácio do Recife.
+Perdido no Espaço é um jogo 2D criado inteiramente em Java, para a conclusão da cadeira de "Projeto de Programação Orientado a Objetos" da Faculdade Estácio do Recife.
 
 # Programas utilizados para o projeto
 
