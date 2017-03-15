@@ -2,7 +2,7 @@
 
 # O que é?
 
-Perdido no Espaço é um jogo 2D criado inteiramente em Java, para a conclusão da cadeira de "Projeto de Programação Orientado a Objetos" da Faculdade Estácio do Recife.
+Perdido no Espaço é um jogo 2D criado inteiramente em Java, para a conclusão da cadeira de "Projeto de Programação Orientada a Objetos" da Faculdade Estácio do Recife.
 
 ![PrintScreen Perdido no Espaço](https://github.com/fjuriolli/perdidonoespaco/blob/master/perdidonoespaco.png "Printscreen Perdido no Espaço")
 
