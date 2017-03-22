@@ -20,6 +20,6 @@ Perdido no Espaço é um jogo 2D criado inteiramente em Java, para a conclusão 
 
   - Photoshop CS6 para a manipulação e criação dos elementos gráficos
   - Java orientado a objetos
-  - IDE Netbeans
+  - Netbeans
 
 
