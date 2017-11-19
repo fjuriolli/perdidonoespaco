@@ -2,7 +2,7 @@
 
 # O que é?
 
-Perdido no Espaço é um jogo 2D desenvolvido inteiramente em Java.
+Perdido no Espaço é um jogo 2D desenvolvido inteiramente em Java...
 
 
 ![PrintScreen Perdido no Espaço](https://github.com/fjuriolli/perdidonoespaco/blob/master/perdidonoespaco.png "Printscreen Perdido no Espaço")
