@@ -10,7 +10,7 @@ Perdido no Espaço é um jogo 2D desenvolvido em Java
   
 # Como jogar?
 
- - Faça o download do jogo pelo seguinte link: http://dropmefiles.com/jAlAl
+ - Faça o download do jogo pelo seguinte link: http://dropmefiles.com/AJolKd8
  - Descompacte o jogo em uma pasta e execute o arquivo Perdido_no_Espaco.jar
  - Jogue!
  - OBS: o jogo só irá rodar em computadores com o java instalado. 
