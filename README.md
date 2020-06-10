@@ -1,5 +1,3 @@
-# Lost in Space
-
 # What is?
 
 Lost in Space is a 2D game developed with Java.
