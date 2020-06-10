@@ -1,26 +1,25 @@
-# Perdido no Espaço
+# Lost in Space
 
-# O que é?
+# What is?
 
-Perdido no Espaço é um jogo 2D desenvolvido em Java
+Lost in Space is a 2D game developed with Java.
 
 
 ![PrintScreen Perdido no Espaço](https://github.com/fjuriolli/perdidonoespaco/blob/master/perdidonoespaco.png "Printscreen Perdido no Espaço")
 
   
-# Como jogar?
+# How to play?
 
- - Faça o download do jogo: http://dropmefiles.com/OKCJpdj0d
- - Descompacte o jogo em uma pasta e execute o arquivo Perdido_no_Espaco.jar
- - Jogue!
- - OBS: o jogo só irá rodar em computadores com o java instalado. 
+ - Download the game: http://dropmefiles.com/OKCJpdj0d
+ - Execute the Perdido_no_Espaco.jar file.
+ - Play!
+ - OBS: you need to have Java installed in order to play the game. 
  
 
-# Programas utilizados para o projeto
+# Programs used for the project
 
-
-  - Photoshop CS6 para a manipulação e criação dos elementos gráficos
-  - Java orientado a objetos
+  - Photoshop CS6 for manipulating and creating graphic images
+  - Object-oriented Java
   - Netbeans
 
 
